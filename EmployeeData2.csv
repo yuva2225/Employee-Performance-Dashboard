@@ -1,0 +1,250 @@
+ EMP ID,Role,ProjectCompletionRate,YearsOfExprience,Salary
+10001,Data analyst,5,0,84055
+10002,Data scientist,4,1,49138
+10003,Business analyst,3,0,90662
+10004,Data engineer,2,4,61153
+10005,Data Scientist,8,3,50407
+10006,Business Intelligence Analyst,2,5,42474
+10007,Data Engineer,8,4,55988
+10008,Quantitative Analyst (Quant),10,5,46824
+10009,Machine Learning Engineer,7,5,41018
+10010,Marketing Analyst,2,5,63534
+10011,Operations Analyst,3,4,64680
+10012,Financial Analyst,1,5,75663
+10013,Healthcare Data Analyst,10,4,70224
+10014,Data Scientist,3,5,91571
+10015,Business Intelligence Analyst,9,2,74971
+10016,Data Engineer,10,4,49429
+10017,Quantitative Analyst (Quant),9,2,41408
+10018,Machine Learning Engineer,8,2,77314
+10019,Marketing Analyst,8,1,61430
+10020,Operations Analyst,1,4,69295
+10021,Financial Analyst,1,0,47849
+10022,Healthcare Data Analyst,4,1,57700
+10023,Data Scientist,3,5,63934
+10024,Business Intelligence Analyst,10,0,68326
+10025,Data Engineer,6,2,46244
+10026,Quantitative Analyst (Quant),3,5,64103
+10027,Machine Learning Engineer,9,5,49553
+10028,Marketing Analyst,9,4,66827
+10029,Operations Analyst,5,0,49041
+10030,Financial Analyst,7,5,90459
+10031,Healthcare Data Analyst,8,4,60977
+10032,Software Engineer,8,2,74379
+10033,Systems Analyst,2,2,91301
+10034,Cybersecurity Analyst,1,1,42566
+10035,Network Engineer,10,0,81431
+10036,Cloud Solutions Architect,4,1,91908
+10037,DevOps Engineer,6,4,96264
+10038,UX/UI Designer,4,1,75427
+10039,Database Administrator (DBA),8,5,57618
+10040,IT Project Manager,5,1,90429
+10041,AI/ML Specialist,2,3,87869
+10042,Software Engineer,4,2,51436
+10043,Systems Analyst,7,4,44886
+10044,Cybersecurity Analyst,2,4,59886
+10045,Network Engineer,5,3,71867
+10046,Cloud Solutions Architect,10,3,50077
+10047,DevOps Engineer,9,5,82968
+10048,UX/UI Designer,4,0,40019
+10049,Database Administrator (DBA),2,2,44082
+10050,IT Project Manager,9,2,50939
+10051,AI/ML Specialist,1,3,90044
+10052,Software Engineer,4,5,49547
+10053,Systems Analyst,2,3,74155
+10054,Cybersecurity Analyst,2,2,89120
+10055,Network Engineer,1,3,47583
+10056,Cloud Solutions Architect,5,3,79312
+10057,DevOps Engineer,10,0,64207
+10058,UX/UI Designer,3,5,80266
+10059,Database Administrator (DBA),1,5,50746
+10060,IT Project Manager,7,4,74775
+10061,AI/ML Specialist,5,2,53660
+10062,Data Analyst,1,2,51797
+10063,Data Scientist,4,2,97352
+10064,Business Intelligence Analyst,3,3,90587
+10065,Data Engineer,9,3,96461
+10066,Quantitative Analyst (Quant),1,4,82837
+10067,Machine Learning Engineer,10,0,87930
+10068,Marketing Analyst,8,4,99118
+10069,Operations Analyst,8,1,98743
+10070,Financial Analyst,2,4,48841
+10071,Healthcare Data Analyst,6,0,43383
+10072,Software Engineer,10,3,60265
+10073,Systems Analyst,10,3,55816
+10074,Cybersecurity Analyst,6,0,74711
+10075,Network Engineer,2,5,69194
+10076,Cloud Solutions Architect,1,4,85185
+10077,DevOps Engineer,6,0,87480
+10078,UX/UI Designer,3,0,59805
+10079,Database Administrator (DBA),4,5,49303
+10080,IT Project Manager,9,0,80488
+10081,AI/ML Specialist,7,5,55313
+10082,Data Analyst,6,1,40941
+10083,Data Scientist,2,3,80476
+10084,Business Intelligence Analyst,6,5,83062
+10085,Data Engineer,5,1,84006
+10086,Quantitative Analyst (Quant),6,0,40100
+10087,Machine Learning Engineer,10,5,83758
+10088,Marketing Analyst,2,4,55650
+10089,Operations Analyst,8,3,43540
+10090,Financial Analyst,8,4,97441
+10091,Healthcare Data Analyst,7,5,91008
+10092,Software Engineer,9,1,42150
+10093,Systems Analyst,4,4,78639
+10094,Cybersecurity Analyst,8,4,47748
+10095,Network Engineer,7,2,89468
+10096,Cloud Solutions Architect,8,5,93508
+10097,DevOps Engineer,7,4,46587
+10098,UX/UI Designer,5,5,99275
+10099,Database Administrator (DBA),4,2,73450
+10100,IT Project Manager,3,5,95835
+10101,AI/ML Specialist,9,2,73221
+10102,Data Analyst,6,2,46571
+10103,Data Scientist,6,0,55402
+10104,Business Intelligence Analyst,2,0,84928
+10105,Data Engineer,6,2,87858
+10106,Quantitative Analyst (Quant),10,0,47637
+10107,Machine Learning Engineer,10,3,61417
+10108,Marketing Analyst,1,5,93238
+10109,Operations Analyst,10,5,99663
+10110,Financial Analyst,1,2,82687
+10111,Healthcare Data Analyst,7,2,89133
+10112,Software Engineer,9,0,65482
+10113,Systems Analyst,3,2,80332
+10114,Cybersecurity Analyst,4,1,54250
+10115,Network Engineer,10,5,68378
+10116,Cloud Solutions Architect,2,2,93239
+10117,DevOps Engineer,4,0,66510
+10118,UX/UI Designer,1,4,87319
+10119,Database Administrator (DBA),3,0,70469
+10120,IT Project Manager,9,0,59331
+10121,AI/ML Specialist,10,2,55848
+10122,Data Analyst,4,1,57190
+10123,Data Scientist,1,4,75243
+10124,Business Intelligence Analyst,8,1,93718
+10125,Data Engineer,2,1,76420
+10126,Quantitative Analyst (Quant),4,1,91275
+10127,Machine Learning Engineer,4,0,85329
+10128,Marketing Analyst,1,4,87656
+10129,Operations Analyst,1,1,60398
+10130,Financial Analyst,9,0,83642
+10131,Healthcare Data Analyst,7,0,71402
+10132,Software Engineer,3,4,51703
+10133,Systems Analyst,9,3,60417
+10134,Cybersecurity Analyst,1,4,82400
+10135,Network Engineer,9,3,88733
+10136,Cloud Solutions Architect,7,4,92566
+10137,DevOps Engineer,6,0,86062
+10138,UX/UI Designer,10,4,89517
+10139,Database Administrator (DBA),2,1,98703
+10140,IT Project Manager,8,4,68537
+10141,AI/ML Specialist,4,5,79440
+10142,Data Analyst,2,5,62835
+10143,Data Scientist,5,3,76911
+10144,Business Intelligence Analyst,3,5,84645
+10145,Data Engineer,4,2,81209
+10146,Quantitative Analyst (Quant),2,4,70953
+10147,Machine Learning Engineer,8,4,89862
+10148,Marketing Analyst,3,4,49968
+10149,Operations Analyst,2,1,93474
+10150,Financial Analyst,10,3,51686
+10151,Healthcare Data Analyst,5,2,73701
+10152,Software Engineer,10,3,65758
+10153,Systems Analyst,2,0,55334
+10154,Cybersecurity Analyst,1,3,64983
+10155,Network Engineer,8,0,65537
+10156,Cloud Solutions Architect,8,2,93346
+10157,DevOps Engineer,8,1,57560
+10158,UX/UI Designer,5,2,40307
+10159,Database Administrator (DBA),8,0,91948
+10160,IT Project Manager,6,4,42919
+10161,AI/ML Specialist,9,1,99548
+10162,Data Analyst,3,1,75587
+10163,Data Scientist,7,2,82398
+10164,Business Intelligence Analyst,8,2,71586
+10165,Data Engineer,7,1,40623
+10166,Quantitative Analyst (Quant),2,0,68338
+10167,Machine Learning Engineer,7,3,90011
+10168,Marketing Analyst,4,1,66528
+10169,Operations Analyst,3,3,78925
+10170,Financial Analyst,2,5,52368
+10171,Healthcare Data Analyst,9,5,45159
+10172,Software Engineer,9,2,57536
+10173,Systems Analyst,4,2,61820
+10174,Cybersecurity Analyst,7,0,60473
+10175,Network Engineer,6,1,90815
+10176,Cloud Solutions Architect,3,4,55772
+10177,DevOps Engineer,9,3,89390
+10178,UX/UI Designer,2,1,40814
+10179,Database Administrator (DBA),5,5,76899
+10180,IT Project Manager,7,1,72863
+10181,AI/ML Specialist,8,3,61865
+10182,Data Analyst,1,0,49504
+10183,Data Scientist,1,2,64905
+10184,Business Intelligence Analyst,1,0,93311
+10185,Data Engineer,9,0,58192
+10186,Quantitative Analyst (Quant),9,3,95442
+10187,Machine Learning Engineer,4,1,72722
+10188,Marketing Analyst,4,4,85268
+10189,Operations Analyst,8,3,55030
+10190,Financial Analyst,10,4,42433
+10191,Healthcare Data Analyst,3,0,44435
+10192,Software Engineer,10,0,72025
+10193,Systems Analyst,9,4,75105
+10194,Cybersecurity Analyst,7,5,67003
+10195,Network Engineer,8,5,44850
+10196,Cloud Solutions Architect,8,5,62423
+10197,DevOps Engineer,1,0,82261
+10198,UX/UI Designer,8,2,45087
+10199,Database Administrator (DBA),3,4,55757
+10200,IT Project Manager,7,1,97017
+10201,AI/ML Specialist,10,0,91091
+10202,Data Analyst,10,0,96591
+10203,Data Scientist,8,0,98237
+10204,Business Intelligence Analyst,1,0,93071
+10205,Data Engineer,4,0,94709
+10206,Quantitative Analyst (Quant),8,3,40206
+10207,Machine Learning Engineer,5,0,75564
+10208,Marketing Analyst,7,3,71535
+10209,Operations Analyst,3,1,46947
+10210,Financial Analyst,9,1,80086
+10211,Healthcare Data Analyst,8,4,57648
+10212,Software Engineer,7,5,92081
+10213,Systems Analyst,1,1,98512
+10214,Cybersecurity Analyst,5,0,97620
+10215,Network Engineer,4,4,52177
+10216,Cloud Solutions Architect,4,2,54026
+10217,DevOps Engineer,10,0,77750
+10218,UX/UI Designer,6,2,67692
+10219,Database Administrator (DBA),7,3,93445
+10220,IT Project Manager,6,5,59531
+10221,AI/ML Specialist,5,1,46737
+10222,Data Analyst,7,2,46104
+10223,Data Scientist,10,2,95068
+10224,Business Intelligence Analyst,10,3,97379
+10225,Data Engineer,8,2,50989
+10226,Quantitative Analyst (Quant),5,1,52561
+10227,Machine Learning Engineer,3,5,76291
+10228,Marketing Analyst,5,5,69295
+10229,Operations Analyst,5,0,91820
+10230,Financial Analyst,3,5,80130
+10231,Healthcare Data Analyst,2,3,40603
+10232,Software Engineer,9,0,93359
+10233,Systems Analyst,7,0,47606
+10234,Cybersecurity Analyst,2,0,96255
+10235,Network Engineer,9,2,67583
+10236,Cloud Solutions Architect,9,2,58757
+10237,DevOps Engineer,9,2,42941
+10238,UX/UI Designer,5,3,70573
+10239,Database Administrator (DBA),3,3,86440
+10240,IT Project Manager,4,3,65290
+10241,AI/ML Specialist,4,1,90421
+10242,Data Analyst,8,4,84896
+10243,Data Scientist,1,2,92345
+10244,Business Intelligence Analyst,4,1,67248
+10245,Data Engineer,10,0,57942
+10246,Quantitative Analyst (Quant),4,5,65037
+10247,Machine Learning Engineer,10,5,97663
+10248,Marketing Analyst,8,4,87646
+10249,Operations Analyst,4,0,78226
