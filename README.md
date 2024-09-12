@@ -34,3 +34,7 @@ An Employee performance dashboard has been created using all the parameters ment
 2.To create a database in microsoft sql server(ssms) and integerate all the data to the dashboard creation interface.
 
 3.To create a Analytical dashboard to visuvalize all the data of the employee in the dashboard.
+
+## Final Dashboard
+
+![Dashboard](https://github.com/user-attachments/assets/8e7267c0-52f6-4c8a-9b0b-055f8ede6eec)
